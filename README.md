@@ -1,7 +1,7 @@
 # Best Practices and Style Guides for Labs
 
 ## HTML
-* As per [https://cosdev.readthedocs.io](COS dev docs], we use 4-space soft tabs for HTML.
+* As per [https://cosdev.readthedocs.io](COS dev docs), we use 4-space soft tabs for HTML.
 * Unless otherwise specified, we use [@mdo's style guide](http://codeguide.co/#html) for HTML.
 
 ## SCSS
