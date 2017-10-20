@@ -1,6 +1,9 @@
 # Best Practices and Style Guides for Labs
 
 ## HTML
+* Don't put spaces in between a tag and its content:
+  * Bad: `<div> Lorem Ipsum </div>`
+  * Good: `<div>Lorem Ipsum</div>`
 * As per [COS dev docs](https://cosdev.readthedocs.io), we use 4-space soft tabs for HTML.
 * Unless otherwise specified, we use [@mdo's style guide](http://codeguide.co/#html) for HTML.
 
